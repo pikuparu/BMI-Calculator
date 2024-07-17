@@ -1,0 +1,71 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.top{
+    padding: 30px 200px 0 200px;
+    text-align: center;
+}
+
+
+#bmi{
+
+text-align: center;
+}
+
+.intro{
+
+    color: #32325d;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+
+}
+
+#calculation{
+    
+    background-color: #E8EAF6 ;
+}
+
+  .first-image{
+     padding-top: 20px;
+
+}
+.secondpara{
+    padding: 30px 200px 0 200px;
+    text-align: center;
+}
+.bottom{
+    background-color: #C5CAE9;
+     text-align: center;
+     padding-top: 20px;
+     padding-bottom: 0;
+    margin-bottom: 0;
+    color: white;
+}
+.brand{
+     background-color: #C5CAE9;
+     padding-top: 30px;
+     padding-bottom: 30px;
+     font-size: 2rem;
+    font-weight: 400;
+}
+.lastpara{
+    padding-top:20px; 
+
+}
+.footer-link{
+    color: white;
+    margin: 10px 20px;
+}
+
+.footer-link:hover{
+      color: #800080;
+      
+}
+#resultpara{
+      padding-top: 20px;
+      padding-bottom: 10px;
+      font-weight: bold;
+}
